@@ -1,0 +1,7 @@
+GIT MERGE / REBASE:
+It's simple, with rebase you say to use another branch as the new base for your work.
+If you have for example a branch master and you create a branch to implement a new 
+feature, say you name it cool-feature, of course the master branch is the base for your new 
+feature.
+Now at a certain point you want to add the new feature you implemented in 
+the master branch. You could just switch to master and merge the cool-feature branch
