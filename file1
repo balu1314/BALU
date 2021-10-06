@@ -1,13 +1,2 @@
-i am BALU .....i am DEVOPS engineer
-    git stash list::-
-                         List the stash entries that you currently have. Each stash entry is listed with its name (e.g. stash@{0} is 
-                         the latest entry, stash@{1} is the one before, etc.), the name of the branch that was current when the 
-                         entry was made, and a short description of the commit the entry was based on.DevOps (a portmanteau of “development” and “operations”) is the combination of practices and tools designed to increase an organization's ability to deliver applications and services faster than traditional software development processes.
-
-A DevOps engineer introduces processes, tools, and methodologies to balance needs throughout the software development life cycle, from coding and deployment, to maintenance and updates. Development teams and IT operations teams can have different skills and different goals.
-
-Application of DevOps in the Online Financial Trading Company. The methodology in the process of testing, building, and development was automated in the financial trading company. Using the DevOps, deployment was being done within 45 seconds. These deployments used to take long nights and weekends for the employees.
-As our example has shown, a wall between development and operations often results in an environment where the two teams don't trust each other and each is walking around a little blindly. ... A DevOps approach results in a collaboration between the two teams where they work with a shared passion to achieve common goals.[A[A[D[D[D[D
-
-[A[Aas
-
+[C[C  
+ what is main benfits of devops?
